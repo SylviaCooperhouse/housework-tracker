@@ -59,10 +59,9 @@ The **Housework Tracker App** is designed to help users log and track their hous
    ```
 3. Run the app:
    ```bash
-   expo start
+   npx expo start
    ```
 4. Submit pull requests for new features or bug fixes.
 
 ## Future Vision
 The Housework Tracker App aims to grow into a comprehensive tool for tracking personal productivity in the home. With simple yet effective features, the app will help families and individuals stay organized without overwhelming them with notifications or overly complex functionality.
-
